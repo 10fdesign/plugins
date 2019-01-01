@@ -1,18 +1,19 @@
 plugins = [
-	"Lake Bomoseen - https://www.lakebomoseenlodge.com/",
-	"Dunes On The Waterfront - https://www.dunesonthewaterfront.com/",
-	"Grafton Inn - https://www.graftoninnvermont.com/",
-	"Sebasco - https://www.sebasco.com/",
-	"Norwich Inn - https://www.norwichinn.com/",
-	"Stevens & Associates - https://www.stevens-assoc.com/",
-	"Vineyard Square - https://www.vineyardsquarehotel.com/",
-	"Latchis Arts - https://latchisarts.org/",
-	"Latchis Hotel - https://www.latchishotel.com/",
-	"Latchis Theater - https;//theater.latchis.com/ (no charge)",
-	"Mill Falls - https://www.millfalls.com/",
-	"The Roberts Collection - https://www.therobertscollection.com/",
-	"Stowe Area Association - https://www.gostowe.com/",
-	"Maine Inns - https://www.maineinns.com/"
+	"10F Design",
+	"Back Roads Granola",
+	"Dunes on the Waterfront",
+	"Grafton Inn",
+	"Inn Partners",
+	"Lake Bomoseen Lodge",
+	"M&S Development",
+	"Mill Falls",
+	"Norwich Inn",
+	"Sebasco",
+	"Stevens & Associates",
+	"Vineyard Square",
+	"WRCC",
+	"The Roberts Collection",
+	"Brattleboro Chamber"
 ].shuffle
 
 distribution = [plugins[0..4], plugins[5..9], plugins[10..13]].shuffle
